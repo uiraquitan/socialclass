@@ -1,0 +1,45 @@
+i {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: 3px;
+    margin-right: 5px;
+    display: inline-block;
+    
+
+}
+
+.i-config {
+    background-image: url('../icons/settings.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+}
+
+.i-logout {
+    background-image: url('../icons/logout.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+}
+
+.i-person {
+    background-image: url('../icons/person.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+}
+
+.i-class {
+    background-image: url('../icons/class.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+}
+
+.i-menu {
+    background-image: url('../icons/menu.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+}
